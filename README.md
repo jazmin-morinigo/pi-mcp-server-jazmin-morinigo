@@ -368,7 +368,7 @@ npm: 11.9.0
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/noejazmin/pi-mcp-server-jazmin-morinigo.git
+git clone https://github.com/jazmin-morinigo/pi-mcp-server-jazmin-morinigo.git
 cd pi-mcp-server-jazmin-morinigo
 ```
 
@@ -746,4 +746,4 @@ Proyecto Integrador M5 — Servidor MCP para GitHub.
 
 Repositorio:
 
-[github.com/noejazmin/pi-mcp-server-jazmin-morinigo](https://github.com/noejazmin/pi-mcp-server-jazmin-morinigo)
+[github.com/jazmin-morinigo/pi-mcp-server-jazmin-morinigo](https://github.com/jazmin-morinigo/pi-mcp-server-jazmin-morinigo)
