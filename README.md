@@ -44,7 +44,7 @@ El proyecto fue desarrollado como Proyecto Integrador del módulo M5 y busca dem
 - **Integración MCP–GitHub verificada mediante MCP Inspector.**
 - **Flujo end-to-end verificado con Antigravity para operaciones de lectura y escritura.**
 
-> Las tres tools de extra credit se encuentran implementadas y cubiertas por tests. Su verificación externa con MCP Inspector y Antigravity se realizará antes de cerrar la versión final del proyecto.
+> Las 8 tools están implementadas, cubiertas por tests y verificadas con MCP Inspector y Antigravity.
 
 ---
 
